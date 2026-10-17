@@ -1,0 +1,17 @@
+services:
+  claimpilot:
+    build:
+      context: .
+      args:
+        WITH_BEDROCK: ${WITH_BEDROCK:-false}
+    ports:
+      - "8000:8000"
+    env_file:
+      - path: .env
+        required: false
+    environment:
+      DB_PATH: /app/var/claimpilot.db
+    volumes:
+      - claimpilot-db:/app/var
+volumes:
+  claimpilot-db:

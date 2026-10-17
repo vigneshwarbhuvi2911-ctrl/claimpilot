@@ -1,0 +1,20 @@
+{
+  "claim_ref": "CLM-H06",
+  "submitted_on": "2026-08-30",
+  "channel": "portal",
+  "note": "Declared pre-existing disease within the 36-month waiting period",
+  "documents": [
+    {
+      "doc_type": "claim_form",
+      "text": "HEALTH CLAIM FORM (reimbursement)\nPolicy number: HLT-2005\nPatient name: Lakshmi Devi\nContact: +91 98400 11210\nHospital: Kauvery Hospital, Tiruchi\nDate of admission: 2026-08-18\nDate of discharge: 2026-08-22\nDate of claim submission: 2026-08-30\nAmount claimed: Rs 52,000"
+    },
+    {
+      "doc_type": "discharge_summary",
+      "text": "DISCHARGE SUMMARY\nHospital: Kauvery Hospital, Tiruchi\nDiagnosis: Diabetic ketoacidosis\nHistory: Known case of type 2 diabetes mellitus since 2024, on oral medication. Admitted with vomiting and high blood sugar.\nCourse in hospital: Treated with IV insulin and fluids. Discharged stable."
+    },
+    {
+      "doc_type": "final_bill",
+      "text": "FINAL HOSPITAL BILL\nRoom rent: Rs 3,500 per day x 4 days = Rs 14,000\nNursing charges: Rs 4,000\nDoctor fees: Rs 9,000\nInvestigations: Rs 11,000\nMedicines: Rs 14,000\nConsumables: Rs 0\nTotal: Rs 52,000"
+    }
+  ]
+}

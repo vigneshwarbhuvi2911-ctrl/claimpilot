@@ -1,0 +1,20 @@
+{
+  "claim_ref": "CLM-M09",
+  "submitted_on": "2026-08-20",
+  "channel": "portal",
+  "note": "Notified 19 days after the incident",
+  "documents": [
+    {
+      "doc_type": "claim_form",
+      "text": "MOTOR CLAIM FORM\nPolicy number: MOT-1001\nInsured name: Arjun Mehta\nContact: +91 98400 11201\nClaim type: Own damage - accident\nDate of incident: 2026-08-01\nDate of intimation: 2026-08-20\nAmount claimed: Rs 30,000\nDescription of loss: Car was scraped by a reversing truck in a parking lot in T. Nagar. I was travelling and could report it only after returning."
+    },
+    {
+      "doc_type": "driving_licence",
+      "text": "DRIVING LICENCE (copy)\nName: Arjun Mehta\nLicence number: TN09 2008 0012345\nClass: LMV\nValid till: 2032-04-11"
+    },
+    {
+      "doc_type": "repair_estimate",
+      "text": "REPAIR ESTIMATE\nGarage: Sri Balaji Motors, Guindy\nMetal parts: Rs 20,000\nPlastic parts: Rs 4,000\nGlass parts: Rs 0\nLabour: Rs 6,000\nTotal: Rs 30,000"
+    }
+  ]
+}

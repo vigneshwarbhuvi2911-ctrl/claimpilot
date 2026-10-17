@@ -1,0 +1,20 @@
+{
+  "claim_ref": "CLM-H03",
+  "submitted_on": "2026-07-30",
+  "channel": "portal",
+  "note": "Illness within the 30-day initial waiting period",
+  "documents": [
+    {
+      "doc_type": "claim_form",
+      "text": "HEALTH CLAIM FORM (reimbursement)\nPolicy number: HLT-2003\nPatient name: Priya Nair\nContact: +91 98400 11208\nHospital: Aster Medcity, Kochi\nDate of admission: 2026-07-20\nDate of discharge: 2026-07-23\nDate of claim submission: 2026-07-30\nAmount claimed: Rs 30,000"
+    },
+    {
+      "doc_type": "discharge_summary",
+      "text": "DISCHARGE SUMMARY\nHospital: Aster Medcity, Kochi\nDiagnosis: Acute viral fever\nHistory: Fever with chills for 3 days. No significant past medical history.\nCourse in hospital: Symptomatic treatment. Discharged stable."
+    },
+    {
+      "doc_type": "final_bill",
+      "text": "FINAL HOSPITAL BILL\nRoom rent: Rs 3,000 per day x 3 days = Rs 9,000\nNursing charges: Rs 3,000\nDoctor fees: Rs 6,000\nInvestigations: Rs 7,000\nMedicines: Rs 5,000\nConsumables: Rs 0\nTotal: Rs 30,000"
+    }
+  ]
+}

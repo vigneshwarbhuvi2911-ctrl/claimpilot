@@ -1,0 +1,20 @@
+{
+  "claim_ref": "CLM-H08",
+  "submitted_on": "2026-09-25",
+  "channel": "portal",
+  "note": "Claim larger than the remaining sum insured",
+  "documents": [
+    {
+      "doc_type": "claim_form",
+      "text": "HEALTH CLAIM FORM (reimbursement)\nPolicy number: HLT-2004\nPatient name: Farhan Ali\nContact: +91 98400 11209\nHospital: Gleneagles Global Hospital, Chennai\nDate of admission: 2026-09-15\nDate of discharge: 2026-09-19\nDate of claim submission: 2026-09-25\nAmount claimed: Rs 80,000"
+    },
+    {
+      "doc_type": "discharge_summary",
+      "text": "DISCHARGE SUMMARY\nHospital: Gleneagles Global Hospital, Chennai\nDiagnosis: Right ureteric calculus\nHistory: Severe right flank pain for one day. No significant past medical history.\nCourse in hospital: Ureteroscopic lithotripsy with stenting. Discharged stable."
+    },
+    {
+      "doc_type": "final_bill",
+      "text": "FINAL HOSPITAL BILL\nRoom rent: Rs 2,000 per day x 4 days = Rs 8,000\nNursing charges: Rs 6,000\nDoctor fees: Rs 20,000\nInvestigations: Rs 16,000\nMedicines: Rs 30,000\nConsumables: Rs 0\nTotal: Rs 80,000"
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "claim_ref": "CLM-H10",
+  "submitted_on": "2026-10-05",
+  "channel": "portal",
+  "note": "Cosmetic procedure",
+  "documents": [
+    {
+      "doc_type": "claim_form",
+      "text": "HEALTH CLAIM FORM (reimbursement)\nPolicy number: HLT-2001\nPatient name: Meena Krishnan\nContact: +91 98400 11206\nHospital: Elite Aesthetics Clinic, Chennai\nDate of admission: 2026-09-28\nDate of discharge: 2026-09-30\nDate of claim submission: 2026-10-05\nAmount claimed: Rs 82,000"
+    },
+    {
+      "doc_type": "discharge_summary",
+      "text": "DISCHARGE SUMMARY\nHospital: Elite Aesthetics Clinic, Chennai\nDiagnosis: Rhinoplasty\nHistory: Patient requested nose reshaping for aesthetic reasons. No history of injury.\nCourse in hospital: Open rhinoplasty performed under general anaesthesia. Discharged stable."
+    },
+    {
+      "doc_type": "final_bill",
+      "text": "FINAL HOSPITAL BILL\nRoom rent: Rs 4,500 per day x 2 days = Rs 9,000\nNursing charges: Rs 3,000\nDoctor fees: Rs 60,000\nInvestigations: Rs 4,000\nMedicines: Rs 6,000\nConsumables: Rs 0\nTotal: Rs 82,000"
+    }
+  ]
+}

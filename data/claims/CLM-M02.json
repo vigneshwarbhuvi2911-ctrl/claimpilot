@@ -1,0 +1,20 @@
+{
+  "claim_ref": "CLM-M02",
+  "submitted_on": "2026-03-07",
+  "channel": "portal",
+  "note": "New vehicle (under 6 months), no metal depreciation",
+  "documents": [
+    {
+      "doc_type": "claim_form",
+      "text": "MOTOR CLAIM FORM\nPolicy number: MOT-1002\nInsured name: Kavya Raman\nContact: +91 98400 11202\nClaim type: Own damage - accident\nDate of incident: 2026-03-05\nDate of intimation: 2026-03-07\nAmount claimed: Rs 35,000\nDescription of loss: Car skidded on a wet road near Velachery and hit a road divider. Front bumper and bonnet damaged."
+    },
+    {
+      "doc_type": "driving_licence",
+      "text": "DRIVING LICENCE (copy)\nName: Kavya Raman\nLicence number: TN22 2015 0098765\nClass: LMV\nValid till: 2035-09-29"
+    },
+    {
+      "doc_type": "repair_estimate",
+      "text": "REPAIR ESTIMATE\nGarage: Kumaran Auto Works, Tambaram\nMetal parts: Rs 25,000\nPlastic parts: Rs 6,000\nGlass parts: Rs 0\nLabour: Rs 4,000\nTotal: Rs 35,000"
+    }
+  ]
+}

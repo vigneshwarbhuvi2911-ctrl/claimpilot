@@ -1,0 +1,20 @@
+{
+  "claim_ref": "CLM-H07",
+  "submitted_on": "2026-10-01",
+  "channel": "portal",
+  "note": "Room above the room-rent limit (proportionate deduction)",
+  "documents": [
+    {
+      "doc_type": "claim_form",
+      "text": "HEALTH CLAIM FORM (reimbursement)\nPolicy number: HLT-2001\nPatient name: Meena Krishnan\nContact: +91 98400 11206\nHospital: MIOT International, Chennai\nDate of admission: 2026-09-22\nDate of discharge: 2026-09-25\nDate of claim submission: 2026-10-01\nAmount claimed: Rs 60,000"
+    },
+    {
+      "doc_type": "discharge_summary",
+      "text": "DISCHARGE SUMMARY\nHospital: MIOT International, Chennai\nDiagnosis: Acute appendicitis\nHistory: Pain in the right lower abdomen for 2 days. No significant past medical history.\nCourse in hospital: Laparoscopic appendectomy. Discharged stable."
+    },
+    {
+      "doc_type": "final_bill",
+      "text": "FINAL HOSPITAL BILL\nRoom rent: Rs 8,000 per day x 3 days = Rs 24,000\nNursing charges: Rs 6,000\nDoctor fees: Rs 9,000\nInvestigations: Rs 10,000\nMedicines: Rs 11,000\nConsumables: Rs 0\nTotal: Rs 60,000"
+    }
+  ]
+}

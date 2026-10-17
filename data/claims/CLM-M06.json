@@ -1,0 +1,20 @@
+{
+  "claim_ref": "CLM-M06",
+  "submitted_on": "2026-09-26",
+  "channel": "portal",
+  "note": "Fourth claim in 12 months",
+  "documents": [
+    {
+      "doc_type": "claim_form",
+      "text": "MOTOR CLAIM FORM\nPolicy number: MOT-1005\nInsured name: Rahul Verma\nContact: +91 98400 11205\nClaim type: Own damage - accident\nDate of incident: 2026-09-25\nDate of intimation: 2026-09-26\nAmount claimed: Rs 36,000\nDescription of loss: Car was hit by an auto-rickshaw while parked outside the office. Right rear door damaged."
+    },
+    {
+      "doc_type": "driving_licence",
+      "text": "DRIVING LICENCE (copy)\nName: Rahul Verma\nLicence number: TS09 2006 0056789\nClass: LMV\nValid till: 2030-11-01"
+    },
+    {
+      "doc_type": "repair_estimate",
+      "text": "REPAIR ESTIMATE\nGarage: Hyderabad Tata Motors Service\nMetal parts: Rs 22,000\nPlastic parts: Rs 8,000\nGlass parts: Rs 0\nLabour: Rs 6,000\nTotal: Rs 36,000"
+    }
+  ]
+}

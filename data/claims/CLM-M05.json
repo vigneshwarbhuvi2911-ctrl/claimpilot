@@ -1,0 +1,20 @@
+{
+  "claim_ref": "CLM-M05",
+  "submitted_on": "2026-09-06",
+  "channel": "portal",
+  "note": "Claim 16 days after a new policy started",
+  "documents": [
+    {
+      "doc_type": "claim_form",
+      "text": "MOTOR CLAIM FORM\nPolicy number: MOT-1004\nInsured name: Nisha Pillai\nContact: +91 98400 11204\nClaim type: Own damage - accident\nDate of incident: 2026-09-05\nDate of intimation: 2026-09-06\nAmount claimed: Rs 48,000\nDescription of loss: Car hit a pothole and then a road barricade on the airport road. Front bumper, grille and left fender damaged."
+    },
+    {
+      "doc_type": "driving_licence",
+      "text": "DRIVING LICENCE (copy)\nName: Nisha Pillai\nLicence number: KA01 2012 0045678\nClass: LMV\nValid till: 2032-07-20"
+    },
+    {
+      "doc_type": "repair_estimate",
+      "text": "REPAIR ESTIMATE\nGarage: Bangalore Kia Service, Hebbal\nMetal parts: Rs 30,000\nPlastic parts: Rs 10,000\nGlass parts: Rs 4,000\nLabour: Rs 4,000\nTotal: Rs 48,000"
+    }
+  ]
+}

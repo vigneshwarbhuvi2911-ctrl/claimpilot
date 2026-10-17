@@ -1,0 +1,20 @@
+{
+  "claim_ref": "CLM-H04",
+  "submitted_on": "2026-07-25",
+  "channel": "portal",
+  "note": "Accident in the initial waiting period (waiver applies)",
+  "documents": [
+    {
+      "doc_type": "claim_form",
+      "text": "HEALTH CLAIM FORM (reimbursement)\nPolicy number: HLT-2003\nPatient name: Priya Nair\nContact: +91 98400 11208\nHospital: Aster Medcity, Kochi\nDate of admission: 2026-07-15\nDate of discharge: 2026-07-17\nDate of claim submission: 2026-07-25\nAmount claimed: Rs 38,000"
+    },
+    {
+      "doc_type": "discharge_summary",
+      "text": "DISCHARGE SUMMARY\nHospital: Aster Medcity, Kochi\nDiagnosis: Fracture of right radius\nHistory: Injured in a road traffic accident when her scooter was hit by a car on 2026-07-15.\nCourse in hospital: Closed reduction and casting under anaesthesia. Discharged stable."
+    },
+    {
+      "doc_type": "final_bill",
+      "text": "FINAL HOSPITAL BILL\nRoom rent: Rs 4,000 per day x 2 days = Rs 8,000\nNursing charges: Rs 2,000\nDoctor fees: Rs 15,000\nInvestigations: Rs 6,000\nMedicines: Rs 7,000\nConsumables: Rs 0\nTotal: Rs 38,000"
+    }
+  ]
+}

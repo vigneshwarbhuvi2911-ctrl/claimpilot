@@ -1,0 +1,20 @@
+{
+  "claim_ref": "CLM-M03",
+  "submitted_on": "2026-08-11",
+  "channel": "portal",
+  "note": "Loss after policy expiry",
+  "documents": [
+    {
+      "doc_type": "claim_form",
+      "text": "MOTOR CLAIM FORM\nPolicy number: MOT-1003\nInsured name: Suresh Babu\nContact: +91 98400 11203\nClaim type: Own damage - accident\nDate of incident: 2026-08-10\nDate of intimation: 2026-08-11\nAmount claimed: Rs 28,000\nDescription of loss: Rear-ended by a bus at a traffic signal on Avinashi Road. Rear bumper and boot lid damaged."
+    },
+    {
+      "doc_type": "driving_licence",
+      "text": "DRIVING LICENCE (copy)\nName: Suresh Babu\nLicence number: TN37 2001 0034567\nClass: LMV\nValid till: 2031-01-04"
+    },
+    {
+      "doc_type": "repair_estimate",
+      "text": "REPAIR ESTIMATE\nGarage: Kovai Car Care, Coimbatore\nMetal parts: Rs 18,000\nPlastic parts: Rs 6,000\nGlass parts: Rs 0\nLabour: Rs 4,000\nTotal: Rs 28,000"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "claim_ref": "CLM-M07",
+  "submitted_on": "2026-10-02",
+  "channel": "portal",
+  "note": "Theft claim without FIR",
+  "documents": [
+    {
+      "doc_type": "claim_form",
+      "text": "MOTOR CLAIM FORM\nPolicy number: MOT-1001\nInsured name: Arjun Mehta\nContact: +91 98400 11201\nClaim type: Theft\nDate of incident: 2026-10-01\nDate of intimation: 2026-10-02\nAmount claimed: Rs 650,000\nDescription of loss: Car was parked outside my house in Adyar overnight and was missing in the morning."
+    }
+  ]
+}

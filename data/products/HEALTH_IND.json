@@ -1,0 +1,25 @@
+{
+  "product_code": "HEALTH_IND",
+  "name": "Individual Health Insurance Policy",
+  "wording_file": "health_individual.md",
+  "notice_days": 30,
+  "min_hospitalisation_hours": 24,
+  "initial_waiting_days": 30,
+  "ped_waiting_months": 36,
+  "specified_disease_waiting_months": 24,
+  "specified_diseases": ["cataract", "hernia", "joint replacement"],
+  "room_rent_pct_of_si": 0.01,
+  "proportionate_items": ["nursing", "doctor_fees", "investigations"],
+  "copay_age": 60,
+  "copay_pct": 0.10,
+  "non_payable_items": ["consumables"],
+  "exclusion_flags": {
+    "cosmetic": "H7(a)",
+    "self_inflicted": "H7(b)",
+    "alcohol": "H7(c)"
+  },
+  "required_documents": {"default": ["claim_form", "discharge_summary", "final_bill"]},
+  "clauses": {"cover": "H1", "period": "H2", "initial_waiting": "H3(a)", "ped_waiting": "H3(b)",
+              "specified_waiting": "H3(c)", "room_rent": "H4", "copay": "H5", "non_payable": "H6",
+              "sum_insured": "H8", "notice": "H9", "documents": "H10"}
+}

@@ -1,0 +1,20 @@
+{
+  "claim_ref": "CLM-H02",
+  "submitted_on": "2026-08-20",
+  "channel": "portal",
+  "note": "Senior citizen co-payment and consumables",
+  "documents": [
+    {
+      "doc_type": "claim_form",
+      "text": "HEALTH CLAIM FORM (reimbursement)\nPolicy number: HLT-2002\nPatient name: Gopal Iyer\nContact: +91 98400 11207\nHospital: Meenakshi Mission Hospital, Madurai\nDate of admission: 2026-08-05\nDate of discharge: 2026-08-09\nDate of claim submission: 2026-08-20\nAmount claimed: Rs 52,000"
+    },
+    {
+      "doc_type": "discharge_summary",
+      "text": "DISCHARGE SUMMARY\nHospital: Meenakshi Mission Hospital, Madurai\nDiagnosis: Community-acquired pneumonia\nHistory: Cough and fever for one week. No significant past medical history.\nCourse in hospital: Treated with IV antibiotics and nebulisation. Discharged stable."
+    },
+    {
+      "doc_type": "final_bill",
+      "text": "FINAL HOSPITAL BILL\nRoom rent: Rs 2,500 per day x 4 days = Rs 10,000\nNursing charges: Rs 4,000\nDoctor fees: Rs 8,000\nInvestigations: Rs 12,000\nMedicines: Rs 16,000\nConsumables: Rs 2,000\nTotal: Rs 52,000"
+    }
+  ]
+}

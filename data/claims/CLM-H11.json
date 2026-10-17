@@ -1,0 +1,16 @@
+{
+  "claim_ref": "CLM-H11",
+  "submitted_on": "2026-09-25",
+  "channel": "portal",
+  "note": "Discharge summary missing",
+  "documents": [
+    {
+      "doc_type": "claim_form",
+      "text": "HEALTH CLAIM FORM (reimbursement)\nPolicy number: HLT-2002\nPatient name: Gopal Iyer\nContact: +91 98400 11207\nHospital: Meenakshi Mission Hospital, Madurai\nDate of admission: 2026-09-14\nDate of discharge: 2026-09-17\nDate of claim submission: 2026-09-25\nAmount claimed: Rs 36,500"
+    },
+    {
+      "doc_type": "final_bill",
+      "text": "FINAL HOSPITAL BILL\nRoom rent: Rs 2,500 per day x 3 days = Rs 7,500\nNursing charges: Rs 3,000\nDoctor fees: Rs 7,000\nInvestigations: Rs 9,000\nMedicines: Rs 10,000\nConsumables: Rs 0\nTotal: Rs 36,500"
+    }
+  ]
+}

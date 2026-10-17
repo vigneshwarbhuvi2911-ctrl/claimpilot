@@ -1,0 +1,24 @@
+{
+  "claim_ref": "CLM-M04",
+  "submitted_on": "2026-09-03",
+  "channel": "portal",
+  "note": "Drunk driving recorded in police report",
+  "documents": [
+    {
+      "doc_type": "claim_form",
+      "text": "MOTOR CLAIM FORM\nPolicy number: MOT-1002\nInsured name: Kavya Raman\nContact: +91 98400 11202\nClaim type: Own damage - accident\nDate of incident: 2026-09-02\nDate of intimation: 2026-09-03\nAmount claimed: Rs 52,000\nDescription of loss: Late at night the car hit a parked lorry on the OMR service road. Front portion and windscreen damaged."
+    },
+    {
+      "doc_type": "driving_licence",
+      "text": "DRIVING LICENCE (copy)\nName: Kavya Raman\nLicence number: TN22 2015 0098765\nClass: LMV\nValid till: 2035-09-29"
+    },
+    {
+      "doc_type": "repair_estimate",
+      "text": "REPAIR ESTIMATE\nGarage: Kumaran Auto Works, Tambaram\nMetal parts: Rs 30,000\nPlastic parts: Rs 9,000\nGlass parts: Rs 6,000\nLabour: Rs 7,000\nTotal: Rs 52,000"
+    },
+    {
+      "doc_type": "fir",
+      "text": "FIR / POLICE REPORT\nStation: Sholinganallur Traffic Police\nDate: 2026-09-02\nThe driver of car TN22CD5678 was examined at the spot. Breath analyser test conducted at the spot showed 62 mg/100 ml of alcohol, above the legal limit. A case was registered."
+    }
+  ]
+}

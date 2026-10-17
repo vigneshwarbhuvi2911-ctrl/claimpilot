@@ -1,0 +1,38 @@
+{
+  "_note": "Synthetic demo data. All people, policies and claims are invented.",
+  "customers": [
+    {"customer_id": "C001", "full_name": "Arjun Mehta", "dob": "1988-04-12", "phone": "+91 98400 11201", "email": "arjun.mehta@example.com", "city": "Chennai"},
+    {"customer_id": "C002", "full_name": "Kavya Raman", "dob": "1994-09-30", "phone": "+91 98400 11202", "email": "kavya.raman@example.com", "city": "Chennai"},
+    {"customer_id": "C003", "full_name": "Suresh Babu", "dob": "1979-01-05", "phone": "+91 98400 11203", "email": "suresh.babu@example.com", "city": "Coimbatore"},
+    {"customer_id": "C004", "full_name": "Nisha Pillai", "dob": "1990-07-21", "phone": "+91 98400 11204", "email": "nisha.pillai@example.com", "city": "Bengaluru"},
+    {"customer_id": "C005", "full_name": "Rahul Verma", "dob": "1985-11-02", "phone": "+91 98400 11205", "email": "rahul.verma@example.com", "city": "Hyderabad"},
+    {"customer_id": "C006", "full_name": "Meena Krishnan", "dob": "1981-03-18", "phone": "+91 98400 11206", "email": "meena.krishnan@example.com", "city": "Chennai"},
+    {"customer_id": "C007", "full_name": "Gopal Iyer", "dob": "1962-06-09", "phone": "+91 98400 11207", "email": "gopal.iyer@example.com", "city": "Madurai"},
+    {"customer_id": "C008", "full_name": "Priya Nair", "dob": "1988-02-14", "phone": "+91 98400 11208", "email": "priya.nair@example.com", "city": "Kochi"},
+    {"customer_id": "C009", "full_name": "Farhan Ali", "dob": "1976-12-01", "phone": "+91 98400 11209", "email": "farhan.ali@example.com", "city": "Chennai"},
+    {"customer_id": "C010", "full_name": "Lakshmi Devi", "dob": "1985-05-27", "phone": "+91 98400 11210", "email": "lakshmi.devi@example.com", "city": "Tiruchi"},
+    {"customer_id": "C011", "full_name": "Vikram Sethi", "dob": "1983-08-08", "phone": "+91 98400 11211", "email": "vikram.sethi@example.com", "city": "Pune"}
+  ],
+  "policies": [
+    {"policy_no": "MOT-1001", "customer_id": "C001", "product_code": "MOTOR_PC", "start_date": "2026-01-15", "end_date": "2027-01-14", "first_start_date": "2023-03-10", "sum_insured": 650000, "status": "active", "vehicle": "Hyundai i20", "registration_no": "TN09AB1234", "vehicle_reg_date": "2023-03-10", "ped_declared": null},
+    {"policy_no": "MOT-1002", "customer_id": "C002", "product_code": "MOTOR_PC", "start_date": "2025-11-01", "end_date": "2026-10-31", "first_start_date": "2025-11-01", "sum_insured": 420000, "status": "active", "vehicle": "Maruti Swift", "registration_no": "TN22CD5678", "vehicle_reg_date": "2025-10-20", "ped_declared": null},
+    {"policy_no": "MOT-1003", "customer_id": "C003", "product_code": "MOTOR_PC", "start_date": "2025-07-01", "end_date": "2026-06-30", "first_start_date": "2021-07-01", "sum_insured": 380000, "status": "expired", "vehicle": "Honda City", "registration_no": "TN37EF9012", "vehicle_reg_date": "2019-06-15", "ped_declared": null},
+    {"policy_no": "MOT-1004", "customer_id": "C004", "product_code": "MOTOR_PC", "start_date": "2026-08-20", "end_date": "2027-08-19", "first_start_date": "2026-08-20", "sum_insured": 900000, "status": "active", "vehicle": "Kia Seltos", "registration_no": "KA01GH3456", "vehicle_reg_date": "2022-02-01", "ped_declared": null},
+    {"policy_no": "MOT-1005", "customer_id": "C005", "product_code": "MOTOR_PC", "start_date": "2026-02-01", "end_date": "2027-01-31", "first_start_date": "2020-02-01", "sum_insured": 500000, "status": "active", "vehicle": "Tata Nexon", "registration_no": "TS09JK7890", "vehicle_reg_date": "2020-01-20", "ped_declared": null},
+    {"policy_no": "HLT-2001", "customer_id": "C006", "product_code": "HEALTH_IND", "start_date": "2026-04-01", "end_date": "2027-03-31", "first_start_date": "2023-04-01", "sum_insured": 500000, "status": "active", "vehicle": null, "registration_no": null, "vehicle_reg_date": null, "ped_declared": null},
+    {"policy_no": "HLT-2002", "customer_id": "C007", "product_code": "HEALTH_IND", "start_date": "2026-01-10", "end_date": "2027-01-09", "first_start_date": "2022-01-10", "sum_insured": 300000, "status": "active", "vehicle": null, "registration_no": null, "vehicle_reg_date": null, "ped_declared": null},
+    {"policy_no": "HLT-2003", "customer_id": "C008", "product_code": "HEALTH_IND", "start_date": "2026-07-01", "end_date": "2027-06-30", "first_start_date": "2026-07-01", "sum_insured": 500000, "status": "active", "vehicle": null, "registration_no": null, "vehicle_reg_date": null, "ped_declared": null},
+    {"policy_no": "HLT-2004", "customer_id": "C009", "product_code": "HEALTH_IND", "start_date": "2026-05-01", "end_date": "2027-04-30", "first_start_date": "2021-05-01", "sum_insured": 200000, "status": "active", "vehicle": null, "registration_no": null, "vehicle_reg_date": null, "ped_declared": null},
+    {"policy_no": "HLT-2005", "customer_id": "C010", "product_code": "HEALTH_IND", "start_date": "2026-02-01", "end_date": "2027-01-31", "first_start_date": "2025-02-01", "sum_insured": 500000, "status": "active", "vehicle": null, "registration_no": null, "vehicle_reg_date": null, "ped_declared": "diabetes"},
+    {"policy_no": "HLT-2006", "customer_id": "C011", "product_code": "HEALTH_IND", "start_date": "2026-03-01", "end_date": "2027-02-28", "first_start_date": "2022-03-01", "sum_insured": 500000, "status": "active", "vehicle": null, "registration_no": null, "vehicle_reg_date": null, "ped_declared": null}
+  ],
+  "claims_history": [
+    {"claim_id": "H-0001", "policy_no": "MOT-1001", "loss_date": "2024-06-02", "amount_paid": 18000, "status": "settled", "fraud_flag": 0},
+    {"claim_id": "H-0002", "policy_no": "MOT-1005", "loss_date": "2025-12-12", "amount_paid": 22000, "status": "settled", "fraud_flag": 0},
+    {"claim_id": "H-0003", "policy_no": "MOT-1005", "loss_date": "2026-03-20", "amount_paid": 31000, "status": "settled", "fraud_flag": 0},
+    {"claim_id": "H-0004", "policy_no": "MOT-1005", "loss_date": "2026-06-14", "amount_paid": 27500, "status": "settled", "fraud_flag": 0},
+    {"claim_id": "H-0005", "policy_no": "HLT-2004", "loss_date": "2026-07-08", "amount_paid": 150000, "status": "settled", "fraud_flag": 0},
+    {"claim_id": "H-0006", "policy_no": "HLT-2006", "loss_date": "2025-09-15", "amount_paid": 0, "status": "repudiated", "fraud_flag": 1},
+    {"claim_id": "H-0007", "policy_no": "HLT-2001", "loss_date": "2025-11-03", "amount_paid": 42000, "status": "settled", "fraud_flag": 0}
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "claim_ref": "CLM-H05",
+  "submitted_on": "2026-09-10",
+  "channel": "portal",
+  "note": "Cataract within the 24-month specified-disease waiting period",
+  "documents": [
+    {
+      "doc_type": "claim_form",
+      "text": "HEALTH CLAIM FORM (reimbursement)\nPolicy number: HLT-2003\nPatient name: Priya Nair\nContact: +91 98400 11208\nHospital: Vasan Eye Care, Kochi\nDate of admission: 2026-09-02\nDate of discharge: 2026-09-03\nDate of claim submission: 2026-09-10\nAmount claimed: Rs 28,000"
+    },
+    {
+      "doc_type": "discharge_summary",
+      "text": "DISCHARGE SUMMARY\nHospital: Vasan Eye Care, Kochi\nDiagnosis: Senile cataract, left eye\nHistory: Gradual blurring of vision in the left eye for one year.\nCourse in hospital: Phacoemulsification with IOL implantation. Discharged stable."
+    },
+    {
+      "doc_type": "final_bill",
+      "text": "FINAL HOSPITAL BILL\nRoom rent: Rs 3,000 per day x 1 days = Rs 3,000\nNursing charges: Rs 1,500\nDoctor fees: Rs 18,000\nInvestigations: Rs 3,000\nMedicines: Rs 2,500\nConsumables: Rs 0\nTotal: Rs 28,000"
+    }
+  ]
+}

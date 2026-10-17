@@ -1,0 +1,20 @@
+{
+  "claim_ref": "CLM-M01",
+  "submitted_on": "2026-09-19",
+  "channel": "portal",
+  "note": "Clean own-damage claim, vehicle about 3.5 years old",
+  "documents": [
+    {
+      "doc_type": "claim_form",
+      "text": "MOTOR CLAIM FORM\nPolicy number: MOT-1001\nInsured name: Arjun Mehta\nContact: +91 98400 11201\nClaim type: Own damage - accident\nDate of incident: 2026-09-18\nDate of intimation: 2026-09-19\nAmount claimed: Rs 69,000\nDescription of loss: While driving on GST Road the car was hit from the side by a two-wheeler that jumped the signal. Left doors, front bumper and left window glass damaged."
+    },
+    {
+      "doc_type": "driving_licence",
+      "text": "DRIVING LICENCE (copy)\nName: Arjun Mehta\nLicence number: TN09 2008 0012345\nClass: LMV\nValid till: 2032-04-11"
+    },
+    {
+      "doc_type": "repair_estimate",
+      "text": "REPAIR ESTIMATE\nGarage: Sri Balaji Motors, Guindy\nMetal parts: Rs 40,000\nPlastic parts: Rs 12,000\nGlass parts: Rs 8,000\nLabour: Rs 9,000\nTotal: Rs 69,000"
+    }
+  ]
+}

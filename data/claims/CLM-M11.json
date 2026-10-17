@@ -1,0 +1,20 @@
+{
+  "claim_ref": "CLM-M11",
+  "submitted_on": "2026-09-11",
+  "channel": "portal",
+  "note": "Driver's licence expired before the incident",
+  "documents": [
+    {
+      "doc_type": "claim_form",
+      "text": "MOTOR CLAIM FORM\nPolicy number: MOT-1001\nInsured name: Arjun Mehta\nContact: +91 98400 11201\nClaim type: Own damage - accident\nDate of incident: 2026-09-10\nDate of intimation: 2026-09-11\nAmount claimed: Rs 25,000\nDescription of loss: My cousin was driving the car and hit a compound wall while turning. Front bumper and bonnet damaged."
+    },
+    {
+      "doc_type": "driving_licence",
+      "text": "DRIVING LICENCE (copy)\nName: Karthik Mehta\nLicence number: TN09 2014 0067890\nClass: LMV\nValid till: 2025-12-31"
+    },
+    {
+      "doc_type": "repair_estimate",
+      "text": "REPAIR ESTIMATE\nGarage: Sri Balaji Motors, Guindy\nMetal parts: Rs 15,000\nPlastic parts: Rs 5,000\nGlass parts: Rs 0\nLabour: Rs 5,000\nTotal: Rs 25,000"
+    }
+  ]
+}

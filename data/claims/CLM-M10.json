@@ -1,0 +1,16 @@
+{
+  "claim_ref": "CLM-M10",
+  "submitted_on": "2026-10-02",
+  "channel": "portal",
+  "note": "Unrecovered theft with FIR",
+  "documents": [
+    {
+      "doc_type": "claim_form",
+      "text": "MOTOR CLAIM FORM\nPolicy number: MOT-1002\nInsured name: Kavya Raman\nContact: +91 98400 11202\nClaim type: Theft\nDate of incident: 2026-10-02\nDate of intimation: 2026-10-02\nAmount claimed: Rs 420,000\nDescription of loss: Car was stolen from the basement parking of a shopping mall in Vadapalani."
+    },
+    {
+      "doc_type": "fir",
+      "text": "FIR / POLICE REPORT\nStation: Vadapalani Police Station\nDate: 2026-10-02\nComplaint of theft of car TN22CD5678 from mall parking. CCTV footage collected. Vehicle not traced as on date."
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "product_code": "MOTOR_PC",
+  "name": "Private Car Package Policy",
+  "wording_file": "motor_private_car.md",
+  "notice_days": 7,
+  "compulsory_deductible": 1000,
+  "depreciation": {
+    "plastic_parts": 0.50,
+    "glass_parts": 0.0,
+    "metal_parts_by_age_months": [[6, 0.0], [12, 0.05], [24, 0.10], [36, 0.15], [48, 0.25], [60, 0.35], [null, 0.40]]
+  },
+  "covered_causes": ["accident", "fire", "flood", "theft"],
+  "exclusion_flags": {
+    "alcohol": "M6(a)",
+    "no_valid_licence": "M6(b)",
+    "wear_and_tear": "M6(c)",
+    "commercial_use": "M6(d)"
+  },
+  "required_documents": {"default": ["claim_form", "driving_licence", "repair_estimate"],
+                         "theft": ["claim_form", "fir"]},
+  "early_claim_days": 30,
+  "clauses": {"cover": "M1", "period": "M2", "notice": "M3", "deductible": "M4",
+              "depreciation": "M5", "theft": "M7", "documents": "M8"}
+}

@@ -1,0 +1,20 @@
+{
+  "claim_ref": "CLM-H09",
+  "submitted_on": "2026-09-18",
+  "channel": "portal",
+  "note": "Policyholder with a previous fraud flag",
+  "documents": [
+    {
+      "doc_type": "claim_form",
+      "text": "HEALTH CLAIM FORM (reimbursement)\nPolicy number: HLT-2006\nPatient name: Vikram Sethi\nContact: +91 98400 11211\nHospital: Ruby Hall Clinic, Pune\nDate of admission: 2026-09-08\nDate of discharge: 2026-09-11\nDate of claim submission: 2026-09-18\nAmount claimed: Rs 45,000"
+    },
+    {
+      "doc_type": "discharge_summary",
+      "text": "DISCHARGE SUMMARY\nHospital: Ruby Hall Clinic, Pune\nDiagnosis: Acute gastroenteritis with dehydration\nHistory: Vomiting and loose stools for 2 days. No significant past medical history.\nCourse in hospital: IV fluids and antibiotics. Discharged stable."
+    },
+    {
+      "doc_type": "final_bill",
+      "text": "FINAL HOSPITAL BILL\nRoom rent: Rs 4,000 per day x 3 days = Rs 12,000\nNursing charges: Rs 3,000\nDoctor fees: Rs 8,000\nInvestigations: Rs 9,000\nMedicines: Rs 13,000\nConsumables: Rs 0\nTotal: Rs 45,000"
+    }
+  ]
+}
