@@ -1,4 +1,4 @@
-# ClaimPilot: Agentic Claims Processing Assistant
+# ClaimPilot: Agentic AI Claims Processing Assistant
 
 A multi-agent workflow, built with **LangGraph**, that reads insurance claim documents, checks them
 against policy rules, customer history and the policy wording, and drafts a recommendation for a
